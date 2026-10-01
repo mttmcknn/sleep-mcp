@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.wrangler/
+.wrangler-home/
+.dev.vars*
+.env*
+*.log
+evidence/private/
+evidence/deploy.txt
+evidence/plan-*.jpg
